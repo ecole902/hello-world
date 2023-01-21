@@ -1,6 +1,4 @@
 # hello-world
 COS420_Lab1
 
-laksdfjdkl
-## dslkjfsdlkjf
-### adskjhsakjl
+https://docs.github.com/en/get-started/quickstart/hello-world
